@@ -1,0 +1,228 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Display welcome message",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1547900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Application displays welcome message",
+            "match": {
+              "location": "JerlinSample4.application_displays_welcome_message()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "signin",
+        "description": "",
+        "id": "test-background-keyword;signin",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 99900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enter unmae and password",
+            "match": {
+              "location": "JerlinSample4.user_enter_unmae_and_password()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Display welcome message",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 123800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Application displays welcome message",
+            "match": {
+              "location": "JerlinSample4.application_displays_welcome_message()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "name": "search for product",
+        "description": "",
+        "id": "test-background-keyword;search-for-product",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 86500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user searches for iphone",
+            "match": {
+              "location": "JerlinSample4.user_searches_for_iphone()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Display welcome message",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 95400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Application displays welcome message",
+            "match": {
+              "location": "JerlinSample4.application_displays_welcome_message()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "add to cart",
+        "description": "",
+        "id": "test-background-keyword;add-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 74500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user add the searched product to cart",
+            "match": {
+              "location": "JerlinSample4.user_add_the_searched_product_to_cart()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Display welcome message",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 101000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Application displays welcome message",
+            "match": {
+              "location": "JerlinSample4.application_displays_welcome_message()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "make payment",
+        "description": "",
+        "id": "test-background-keyword;make-payment",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 67100,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user make payment process",
+            "match": {
+              "location": "JerlinSample4.user_make_payment_process()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Display welcome message",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 91300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Application displays welcome message",
+            "match": {
+              "location": "JerlinSample4.application_displays_welcome_message()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "logout",
+        "description": "",
+        "id": "test-background-keyword;logout",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 105300,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user perform logout process from the application",
+            "match": {
+              "location": "JerlinSample4.user_perform_logout_process_from_the_application()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Test Background keyword",
+    "description": "",
+    "id": "test-background-keyword",
+    "keyword": "Feature",
+    "uri": "src/main/resources/jerlinEg4.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.005975">
+<testcase classname="Test Background keyword" name="search for product" time="0.005393">
+<system-out><![CDATA[Given Application displays welcome message..................................passed
+When user searches for iphone...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Background keyword" name="logout" time="0.000582">
+<system-out><![CDATA[Given Application displays welcome message..................................passed
+When user perform logout process from the application.......................passed
+]]></system-out>
+</testcase>
+</testsuite>
